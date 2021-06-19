@@ -89,7 +89,7 @@ We provide prebuilt arm64 builds. For other platforms, see [this issue comment](
 #### Is this repo actively maintained?
 [See this notice](https://github.com/GitSquared/edex-ui/issues/769)
 #### How did you make this?
-Glad you're interested! See [#272](https://github.com/GitSquared/edex-ui/issues/272).
+I am glad you're interested! See [#272](https://github.com/GitSquared/edex-ui/issues/272).
 #### This is so cool.
 Thanks! If you feel like it, you can [buy me a coffee](https://buymeacoff.ee/gaby) or [sponsor me on GitHub](https://github.com/sponsors/GitSquared) to encourage me to build more awesome stuff.
 
